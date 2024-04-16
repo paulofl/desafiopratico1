@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "j78DoYb/nxAV1svCTU/vQpdnrZH/twneyme8aMrmffUMBXFHG4j3tWSKORQiwCSvHFmLeAIPo2RUYJerSTg05g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo.cornelio\\source\\repos\\DesafioPratico1\\DesafioPratico1\\DesafioPratico1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://ionvt01dev01.ion.local:8181/nuget/IONSistemas'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}

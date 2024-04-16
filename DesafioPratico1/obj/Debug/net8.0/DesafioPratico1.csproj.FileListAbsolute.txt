@@ -1,0 +1,14 @@
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.exe
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.deps.json
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.runtimeconfig.json
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.dll
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.pdb
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.AssemblyInfoInputs.cache
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.AssemblyInfo.cs
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.csproj.CoreCompileInputs.cache
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.dll
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\refint\DesafioPratico1.dll
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.pdb
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.genruntimeconfig.cache
+C:\Users\paulo.cornelio\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\ref\DesafioPratico1.dll
